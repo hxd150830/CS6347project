@@ -1,0 +1,713 @@
+New Zealand 	India 	New Zealand 	108 runs 	Dunedin 	Mar 1, 1990 	ODI # 612
+Australia 	India 	Australia 	18 runs 	Christchurch 	Mar 3, 1990 	ODI # 613
+New Zealand 	India 	India 	1 run 	Wellington 	Mar 6, 1990 	ODI # 616
+Australia 	India 	Australia 	7 wickets 	Hamilton 	Mar 8, 1990 	ODI # 618
+India 	Sri Lanka 	Sri Lanka 	3 wickets 	Sharjah 	Apr 25, 1990 	ODI # 623
+India 	Pakistan 	Pakistan 	26 runs 	Sharjah 	Apr 27, 1990 	ODI # 625
+England 	India 	India 	6 wickets 	Leeds 	Jul 18, 1990 	ODI # 634
+England 	India 	India 	5 wickets 	Nottingham 	Jul 20, 1990 	ODI # 635
+India 	Sri Lanka 	India 	19 runs 	Nagpur 	Dec 1, 1990 	ODI # 644
+India 	Sri Lanka 	India 	6 wickets 	Pune 	Dec 5, 1990 	ODI # 646
+India 	Sri Lanka 	Sri Lanka 	7 wickets 	Margao 	Dec 8, 1990 	ODI # 648
+India 	Bangladesh 	India 	9 wickets 	Chandigarh 	Dec 25, 1990 	ODI # 657
+India 	Sri Lanka 	Sri Lanka 	36 runs 	Cuttack 	Dec 28, 1990 	ODI # 658
+India 	Sri Lanka 	India 	7 wickets 	Kolkata 	Jan 4, 1991 	ODI # 661
+India 	Pakistan 	India 	60 runs 	Sharjah 	Oct 18, 1991 	ODI # 680
+India 	West Indies 	India 	19 runs 	Sharjah 	Oct 19, 1991 	ODI # 681
+India 	West Indies 	India 	7 wickets 	Sharjah 	Oct 22, 1991 	ODI # 683
+India 	Pakistan 	Pakistan 	4 runs 	Sharjah 	Oct 23, 1991 	ODI # 684
+India 	Pakistan 	Pakistan 	72 runs 	Sharjah 	Oct 25, 1991 	ODI # 685
+India 	South Africa 	India 	3 wickets 	Kolkata 	Nov 10, 1991 	ODI # 686
+India 	South Africa 	India 	38 runs 	Gwalior 	Nov 12, 1991 	ODI # 687
+India 	South Africa 	South Africa 	8 wickets 	New Delhi 	Nov 14, 1991 	ODI # 688
+India 	West Indies 	tied 		Perth 	Dec 6, 1991 	ODI # 692
+Australia 	India 	India 	107 runs 	Perth 	Dec 8, 1991 	ODI # 693
+Australia 	India 	Australia 	8 wickets 	Hobart 	Dec 10, 1991 	ODI # 694
+India 	West Indies 	India 	10 runs 	Adelaide 	Dec 14, 1991 	ODI # 696
+Australia 	India 	Australia 	6 wickets 	Adelaide 	Dec 15, 1991 	ODI # 697
+India 	West Indies 	West Indies 	6 wickets 	Brisbane 	Jan 11, 1992 	ODI # 702
+Australia 	India 	Australia 	9 wickets 	Sydney 	Jan 14, 1992 	ODI # 705
+India 	West Indies 	India 	5 wickets 	Melbourne 	Jan 16, 1992 	ODI # 707
+Australia 	India 	Australia 	88 runs 	Melbourne 	Jan 18, 1992 	ODI # 709
+Australia 	India 	Australia 	6 runs 	Sydney 	Jan 20, 1992 	ODI # 711
+England 	India 	England 	9 runs 	Perth 	Feb 22, 1992 	ODI # 715
+Australia 	India 	Australia 	1 run 	Brisbane 	Mar 1, 1992 	ODI # 725
+India 	Pakistan 	India 	43 runs 	Sydney 	Mar 4, 1992 	ODI # 729
+India 	Zimbabwe 	India 	55 runs 	Hamilton 	Mar 7, 1992 	ODI # 732
+India 	West Indies 	West Indies 	5 wickets 	Wellington 	Mar 10, 1992 	ODI # 737
+New Zealand 	India 	New Zealand 	4 wickets 	Dunedin 	Mar 12, 1992 	ODI # 740
+India 	South Africa 	South Africa 	6 wickets 	Adelaide 	Mar 15, 1992 	ODI # 745
+Zimbabwe 	India 	India 	30 runs 	Harare 	Oct 25, 1992 	ODI # 764
+South Africa 	India 	South Africa 	6 wickets 	Cape Town 	Dec 7, 1992 	ODI # 770
+South Africa 	India 	South Africa 	6 wickets 	Port Elizabeth 	Dec 9, 1992 	ODI # 772
+South Africa 	India 	India 	4 wickets 	Centurion 	Dec 11, 1992 	ODI # 774
+South Africa 	India 	South Africa 	6 wickets 	Johannesburg 	Dec 13, 1992 	ODI # 779
+South Africa 	India 	South Africa 	8 wickets 	Bloemfontein 	Dec 15, 1992 	ODI # 781
+South Africa 	India 	South Africa 	39 runs 	Durban 	Dec 17, 1992 	ODI # 783
+South Africa 	India 	India 	5 wickets 	East London 	Dec 19, 1992 	ODI # 784
+India 	England 	England 	4 wickets 	Jaipur 	Jan 18, 1993 	ODI # 794
+India 	England 	India 	5 wickets 	Chandigarh 	Jan 21, 1993 	ODI # 795
+India 	England 	England 	48 runs 	Bangalore 	Feb 26, 1993 	ODI # 809
+India 	England 	England 	6 wickets 	Jamshedpur 	Mar 1, 1993 	ODI # 811
+India 	England 	India 	3 wickets 	Gwalior 	Mar 4, 1993 	ODI # 813
+India 	England 	India 	4 wickets 	Gwalior 	Mar 5, 1993 	ODI # 814
+India 	Zimbabwe 	India 	67 runs 	Faridabad 	Mar 19, 1993 	ODI # 817
+India 	Zimbabwe 	India 	7 wickets 	Guwahati 	Mar 22, 1993 	ODI # 820
+India 	Zimbabwe 	India 	8 wickets 	Pune 	Mar 25, 1993 	ODI # 823
+Sri Lanka 	India 	India 	1 run 	Colombo (RPS) 	Jul 25, 1993 	ODI # 833
+Sri Lanka 	India 	Sri Lanka 	8 runs 	Colombo (RPS) 	Aug 12, 1993 	ODI # 834
+Sri Lanka 	India 	Sri Lanka 	4 wickets 	Moratuwa 	Aug 14, 1993 	ODI # 835
+India 	Sri Lanka 	India 	7 wickets 	Kanpur 	Nov 7, 1993 	ODI # 846
+India 	West Indies 	West Indies 	69 runs 	Ahmedabad 	Nov 16, 1993 	ODI # 851
+India 	Zimbabwe 	tied 		Indore 	Nov 18, 1993 	ODI # 852
+India 	South Africa 	India 	43 runs 	Mohali 	Nov 22, 1993 	ODI # 855
+India 	South Africa 	India 	2 runs 	Kolkata 	Nov 24, 1993 	ODI # 856
+India 	West Indies 	India 	102 runs 	Kolkata 	Nov 27, 1993 	ODI # 858
+India 	Sri Lanka 	India 	8 runs 	Rajkot 	Feb 15, 1994 	ODI # 879
+India 	Sri Lanka 	India 	7 wickets 	Hyderabad (Deccan) 	Feb 18, 1994 	ODI # 881
+India 	Sri Lanka 	Sri Lanka 	4 wickets 	Jalandhar 	Feb 20, 1994 	ODI # 883
+New Zealand 	India 	New Zealand 	28 runs 	Napier 	Mar 25, 1994 	ODI # 896
+New Zealand 	India 	India 	7 wickets 	Auckland 	Mar 27, 1994 	ODI # 897
+New Zealand 	India 	India 	12 runs 	Wellington 	Mar 30, 1994 	ODI # 898
+New Zealand 	India 	New Zealand 	6 wickets 	Christchurch 	Apr 2, 1994 	ODI # 899
+U.A.E. 	India 	India 	71 runs 	Sharjah 	Apr 13, 1994 	ODI # 904
+India 	Pakistan 	Pakistan 	6 wickets 	Sharjah 	Apr 15, 1994 	ODI # 906
+Australia 	India 	India 	7 wickets 	Sharjah 	Apr 19, 1994 	ODI # 910
+India 	Pakistan 	Pakistan 	39 runs 	Sharjah 	Apr 22, 1994 	ODI # 912
+Sri Lanka 	India 	Sri Lanka 	7 wickets 	Colombo (RPS) 	Sep 5, 1994 	ODI # 922
+Australia 	India 	India 	31 runs 	Colombo (RPS) 	Sep 9, 1994 	ODI # 924
+Sri Lanka 	India 	India 	6 wickets 	Colombo (SSC) 	Sep 17, 1994 	ODI # 927
+India 	West Indies 	West Indies 	96 runs 	Faridabad 	Oct 17, 1994 	ODI # 931
+India 	West Indies 	India 	8 runs 	Mumbai 	Oct 20, 1994 	ODI # 933
+India 	West Indies 	India 	4 wickets 	Chennai 	Oct 23, 1994 	ODI # 936
+India 	New Zealand 	India 	7 wickets 	Vadodara 	Oct 28, 1994 	ODI # 939
+India 	West Indies 	West Indies 	46 runs 	Kanpur 	Oct 30, 1994 	ODI # 941
+India 	New Zealand 	India 	107 runs 	Delhi 	Nov 3, 1994 	ODI # 944
+India 	West Indies 	India 	72 runs 	Kolkata 	Nov 5, 1994 	ODI # 947
+India 	West Indies 	India 	4 runs 	Visakhapatnam 	Nov 7, 1994 	ODI # 949
+India 	West Indies 	India 	8 wickets 	Cuttack 	Nov 9, 1994 	ODI # 950
+India 	West Indies 	India 	5 runs 	Jaipur 	Nov 11, 1994 	ODI # 951
+New Zealand 	India 	New Zealand 	4 wickets 	Napier 	Feb 16, 1995 	ODI # 976
+India 	South Africa 	South Africa 	14 runs 	Hamilton 	Feb 18, 1995 	ODI # 977
+Australia 	India 	India 	5 wickets 	Dunedin 	Feb 22, 1995 	ODI # 979
+Bangladesh 	India 	India 	9 wickets 	Sharjah 	Apr 5, 1995 	ODI # 993
+India 	Pakistan 	Pakistan 	97 runs 	Sharjah 	Apr 7, 1995 	ODI # 995
+India 	Sri Lanka 	India 	8 wickets 	Sharjah 	Apr 9, 1995 	ODI # 997
+India 	Sri Lanka 	India 	8 wickets 	Sharjah 	Apr 14, 1995 	ODI # 999
+India 	New Zealand 	New Zealand 	8 wickets 	Jamshedpur 	Nov 15, 1995 	ODI # 1015
+India 	New Zealand 	India 	6 wickets 	Amritsar 	Nov 18, 1995 	ODI # 1016
+India 	New Zealand 	India 	5 wickets 	Pune 	Nov 24, 1995 	ODI # 1017
+India 	New Zealand 	New Zealand 	99 runs 	Nagpur 	Nov 26, 1995 	ODI # 1018
+India 	New Zealand 	India 	6 wickets 	Mumbai (BS) 	Nov 29, 1995 	ODI # 1019
+India 	Kenya 	India 	7 wickets 	Cuttack 	Feb 18, 1996 	ODI # 1052
+India 	West Indies 	India 	5 wickets 	Gwalior 	Feb 21, 1996 	ODI # 1056
+India 	Australia 	Australia 	16 runs 	Mumbai 	Feb 27, 1996 	ODI # 1065
+India 	Sri Lanka 	Sri Lanka 	6 wickets 	Delhi 	Mar 2, 1996 	ODI # 1070
+India 	Zimbabwe 	India 	40 runs 	Kanpur 	Mar 6, 1996 	ODI # 1075
+India 	Pakistan 	India 	39 runs 	Bangalore 	Mar 9, 1996 	ODI # 1078
+India 	Sri Lanka 	Sri Lanka 		Kolkata 	Mar 13, 1996 	ODI # 1081
+India 	Sri Lanka 	India 	12 runs 	Singapore 	Apr 3, 1996 	ODI # 1089
+India 	Pakistan 	Pakistan 	8 wickets 	Singapore 	Apr 5, 1996 	ODI # 1091
+India 	Pakistan 	Pakistan 	38 runs 	Sharjah 	Apr 12, 1996 	ODI # 1094
+India 	South Africa 	South Africa 	80 runs 	Sharjah 	Apr 14, 1996 	ODI # 1097
+India 	Pakistan 	India 	28 runs 	Sharjah 	Apr 15, 1996 	ODI # 1098
+India 	South Africa 	South Africa 	5 wickets 	Sharjah 	Apr 17, 1996 	ODI # 1100
+India 	South Africa 	South Africa 	38 runs 	Sharjah 	Apr 19, 1996 	ODI # 1101
+England 	India 	England 	6 wickets 	Leeds 	May 25, 1996 	ODI # 1103
+England 	India 	England 	4 wickets 	Manchester 	May 26-27, 1996 	ODI # 1104
+Sri Lanka 	India 	Sri Lanka 	9 wickets 	Colombo (RPS) 	Aug 28, 1996 	ODI # 1106
+India 	Zimbabwe 	India 	7 wickets 	Colombo (SSC) 	Sep 1, 1996 	ODI # 1110
+Australia 	India 	Australia 	3 wickets 	Colombo (SSC) 	Sep 6, 1996 	ODI # 1113
+India 	Pakistan 	India 	8 wickets 	Toronto 	Sep 16, 1996 	ODI # 1115
+India 	Pakistan 	Pakistan 	2 wickets 	Toronto 	Sep 17, 1996 	ODI # 1116
+India 	Pakistan 	India 	55 runs 	Toronto 	Sep 18, 1996 	ODI # 1117
+India 	Pakistan 	Pakistan 	97 runs 	Toronto 	Sep 21, 1996 	ODI # 1118
+India 	Pakistan 	Pakistan 	52 runs 	Toronto 	Sep 23, 1996 	ODI # 1119
+India 	South Africa 	South Africa 	47 runs 	Hyderabad (Deccan) 	Oct 17, 1996 	ODI # 1127
+India 	Australia 	India 	2 wickets 	Bangalore 	Oct 21, 1996 	ODI # 1129
+India 	South Africa 	South Africa 	27 runs 	Jaipur 	Oct 23, 1996 	ODI # 1130
+India 	South Africa 	South Africa 	5 wickets 	Rajkot 	Oct 29, 1996 	ODI # 1132
+India 	Australia 	India 	5 runs 	Mohali 	Nov 3, 1996 	ODI # 1137
+India 	South Africa 	India 	35 runs 	Mumbai 	Nov 6, 1996 	ODI # 1138
+India 	South Africa 	India 	74 runs 	Mumbai 	Dec 14, 1996 	ODI # 1151
+South Africa 	India 	South Africa 	39 runs 	Bloemfontein 	Jan 23, 1997 	ODI # 1167
+India 	Zimbabwe 	tied 		Paarl 	Jan 27, 1997 	ODI # 1169
+South Africa 	India 	South Africa 	6 wickets 	Port Elizabeth 	Feb 2, 1997 	ODI # 1172
+South Africa 	India 	South Africa 	6 wickets 	East London 	Feb 4, 1997 	ODI # 1173
+India 	Zimbabwe 	Zimbabwe 	3 wickets 	Centurion 	Feb 7, 1997 	ODI # 1174
+India 	Zimbabwe 	India 	6 wickets 	Benoni 	Feb 9, 1997 	ODI # 1175
+South Africa 	India 	South Africa 	17 runs 	Durban 	Feb 13, 1997 	ODI # 1177
+Zimbabwe 	India 	Zimbabwe 	8 wickets 	Bulawayo 	Feb 15, 1997 	ODI # 1178
+West Indies 	India 	West Indies 	8 wickets 	Port of Spain 	Apr 26, 1997 	ODI # 1200
+West Indies 	India 	India 	10 wickets 	Port of Spain 	Apr 27, 1997 	ODI # 1201
+West Indies 	India 	West Indies 	18 runs 	Kingstown 	Apr 30, 1997 	ODI # 1202
+West Indies 	India 	West Indies 	10 wickets 	Bridgetown 	May 3, 1997 	ODI # 1203
+India 	New Zealand 	India 	8 wickets 	Bangalore 	May 14, 1997 	ODI # 1206
+India 	Sri Lanka 	Sri Lanka 	5 wickets 	Mumbai 	May 17, 1997 	ODI # 1207
+India 	Pakistan 	Pakistan 	35 runs 	Chennai 	May 21, 1997 	ODI # 1209
+Sri Lanka 	India 	Sri Lanka 	6 wickets 	Colombo (RPS) 	Jul 18, 1997 	ODI # 1218
+Bangladesh 	India 	India 	9 wickets 	Colombo (SSC) 	Jul 24, 1997 	ODI # 1221
+Sri Lanka 	India 	Sri Lanka 	8 wickets 	Colombo (RPS) 	Jul 26, 1997 	ODI # 1222
+Sri Lanka 	India 	Sri Lanka 	2 runs 	Colombo (RPS) 	Aug 17, 1997 	ODI # 1223
+Sri Lanka 	India 	Sri Lanka 	7 wickets 	Colombo (RPS) 	Aug 20, 1997 	ODI # 1224
+Sri Lanka 	India 	Sri Lanka 	9 runs 	Colombo (SSC) 	Aug 24, 1997 	ODI # 1226
+India 	Pakistan 	India 	20 runs 	Toronto 	Sep 13, 1997 	ODI # 1227
+India 	Pakistan 	India 	7 wickets 	Toronto 	Sep 14, 1997 	ODI # 1228
+India 	Pakistan 	India 	34 runs 	Toronto 	Sep 18, 1997 	ODI # 1230
+India 	Pakistan 	India 	7 wickets 	Toronto 	Sep 20, 1997 	ODI # 1231
+India 	Pakistan 	Pakistan 	5 wickets 	Toronto 	Sep 21, 1997 	ODI # 1232
+Pakistan 	India 	Pakistan 	5 wickets 	Hyderabad (Sind) 	Sep 28, 1997 	ODI # 1233
+Pakistan 	India 	India 	4 wickets 	Karachi 	Sep 30, 1997 	ODI # 1234
+Pakistan 	India 	Pakistan 	9 wickets 	Lahore 	Oct 2, 1997 	ODI # 1236
+England 	India 	England 	7 runs 	Sharjah 	Dec 11, 1997 	ODI # 1259
+India 	Pakistan 	Pakistan 	4 wickets 	Sharjah 	Dec 14, 1997 	ODI # 1262
+India 	West Indies 	West Indies 	41 runs 	Sharjah 	Dec 16, 1997 	ODI # 1264
+India 	Sri Lanka 	India 	7 wickets 	Guwahati 	Dec 22, 1997 	ODI # 1267
+India 	Sri Lanka 	Sri Lanka 	5 wickets 	Margao 	Dec 28, 1997 	ODI # 1269
+Bangladesh 	India 	India 	4 wickets 	Dhaka 	Jan 10, 1998 	ODI # 1271
+India 	Pakistan 	India 	18 runs 	Dhaka 	Jan 11, 1998 	ODI # 1273
+India 	Pakistan 	India 	8 wickets 	Dhaka 	Jan 14, 1998 	ODI # 1276
+India 	Pakistan 	Pakistan 	6 wickets 	Dhaka 	Jan 16, 1998 	ODI # 1277
+India 	Pakistan 	India 	3 wickets 	Dhaka 	Jan 18, 1998 	ODI # 1279
+India 	Australia 	India 	41 runs 	Kochi 	Apr 1, 1998 	ODI # 1300
+India 	Zimbabwe 	India 	13 runs 	Vadodara 	Apr 5, 1998 	ODI # 1305
+India 	Australia 	India 	6 wickets 	Kanpur 	Apr 7, 1998 	ODI # 1308
+India 	Zimbabwe 	India 	32 runs 	Cuttack 	Apr 9, 1998 	ODI # 1311
+India 	Australia 	Australia 	4 wickets 	Delhi 	Apr 14, 1998 	ODI # 1316
+India 	New Zealand 	India 	15 runs 	Sharjah 	Apr 17, 1998 	ODI # 1319
+Australia 	India 	Australia 	58 runs 	Sharjah 	Apr 19, 1998 	ODI # 1322
+India 	New Zealand 	New Zealand 	4 wickets 	Sharjah 	Apr 20, 1998 	ODI # 1323
+Australia 	India 	Australia 	26 runs 	Sharjah 	Apr 22, 1998 	ODI # 1325
+Australia 	India 	India 	6 wickets 	Sharjah 	Apr 24, 1998 	ODI # 1327
+India 	Bangladesh 	India 	5 wickets 	Mohali 	May 14, 1998 	ODI # 1328
+India 	Kenya 	India 	4 wickets 	Bangalore 	May 20, 1998 	ODI # 1330
+India 	Bangladesh 	India 	5 wickets 	Mumbai 	May 25, 1998 	ODI # 1335
+India 	Kenya 	Kenya 	69 runs 	Gwalior 	May 28, 1998 	ODI # 1336
+India 	Kenya 	India 	9 wickets 	Kolkata 	May 31, 1998 	ODI # 1337
+Sri Lanka 	India 	India 	8 wickets 	Colombo (RPS) 	Jun 19, 1998 	ODI # 1338
+Sri Lanka 	India 	Sri Lanka 	8 runs 	Colombo (SSC) 	Jul 1, 1998 	ODI # 1341
+Sri Lanka 	India 	India 	6 runs 	Colombo (RPS) 	Jul 7, 1998 	ODI # 1344
+India 	Pakistan 	India 	6 wickets 	Toronto 	Sep 12, 1998 	ODI # 1349
+India 	Pakistan 	Pakistan 	51 runs 	Toronto 	Sep 13, 1998 	ODI # 1350
+India 	Pakistan 	Pakistan 	77 runs 	Toronto 	Sep 16, 1998 	ODI # 1351
+India 	Pakistan 	Pakistan 	134 runs 	Toronto 	Sep 19, 1998 	ODI # 1352
+India 	Pakistan 	Pakistan 	5 wickets 	Toronto 	Sep 20, 1998 	ODI # 1353
+Zimbabwe 	India 	India 	8 wickets 	Bulawayo 	Sep 26, 1998 	ODI # 1354
+Zimbabwe 	India 	India 	8 wickets 	Bulawayo 	Sep 27, 1998 	ODI # 1355
+Zimbabwe 	India 	Zimbabwe 	37 runs 	Harare 	Sep 30, 1998 	ODI # 1356
+Australia 	India 	India 	44 runs 	Dhaka 	Oct 28, 1998 	ODI # 1360
+India 	West Indies 	West Indies 	6 wickets 	Dhaka 	Oct 31, 1998 	ODI # 1363
+India 	Sri Lanka 	India 	3 wickets 	Sharjah 	Nov 6, 1998 	ODI # 1366
+India 	Zimbabwe 	India 	7 wickets 	Sharjah 	Nov 8, 1998 	ODI # 1369
+India 	Sri Lanka 	India 	81 runs 	Sharjah 	Nov 9, 1998 	ODI # 1370
+India 	Zimbabwe 	Zimbabwe 	13 runs 	Sharjah 	Nov 11, 1998 	ODI # 1373
+India 	Zimbabwe 	India 	10 wickets 	Sharjah 	Nov 13, 1998 	ODI # 1374
+New Zealand 	India 	New Zealand 	5 wickets 	Taupo 	Jan 9, 1999 	ODI # 1378
+New Zealand 	India 	India 	2 wickets 	Napier 	Jan 12, 1999 	ODI # 1381
+New Zealand 	India 	India 	5 wickets 	Auckland 	Jan 16, 1999 	ODI # 1385
+New Zealand 	India 	New Zealand 	70 runs 	Christchurch 	Jan 19, 1999 	ODI # 1387
+India 	Sri Lanka 	India 	80 runs 	Nagpur 	Mar 22, 1999 	ODI # 1415
+India 	Pakistan 	Pakistan 	143 runs 	Jaipur 	Mar 24, 1999 	ODI # 1417
+India 	Sri Lanka 	India 	51 runs 	Pune 	Mar 30, 1999 	ODI # 1426
+India 	Pakistan 	Pakistan 	7 wickets 	Mohali 	Apr 1, 1999 	ODI # 1427
+India 	Pakistan 	Pakistan 	123 runs 	Bangalore 	Apr 4, 1999 	ODI # 1428
+India 	Pakistan 	Pakistan 	116 runs 	Sharjah 	Apr 8, 1999 	ODI # 1430
+England 	India 	India 	20 runs 	Sharjah 	Apr 9, 1999 	ODI # 1431
+England 	India 	India 	9 runs 	Sharjah 	Apr 11, 1999 	ODI # 1432
+India 	Pakistan 	India 	6 wickets 	Sharjah 	Apr 13, 1999 	ODI # 1435
+India 	Pakistan 	Pakistan 	8 wickets 	Sharjah 	Apr 16, 1999 	ODI # 1437
+India 	South Africa 	South Africa 	4 wickets 	Hove 	May 15, 1999 	ODI # 1444
+India 	Zimbabwe 	Zimbabwe 	3 runs 	Leicester 	May 19, 1999 	ODI # 1450
+India 	Kenya 	India 	94 runs 	Bristol 	May 23, 1999 	ODI # 1457
+India 	Sri Lanka 	India 	157 runs 	Taunton 	May 26, 1999 	ODI # 1463
+England 	India 	India 	63 runs 	Birmingham 	May 29-30, 1999 	ODI # 1467
+Australia 	India 	Australia 	77 runs 	The Oval 	Jun 4, 1999 	ODI # 1473
+India 	Pakistan 	India 	47 runs 	Manchester 	Jun 8, 1999 	ODI # 1476
+India 	New Zealand 	New Zealand 	5 wickets 	Nottingham 	Jun 12, 1999 	ODI # 1480
+Australia 	India 	Australia 	8 wickets 	Galle 	Aug 23, 1999 	ODI # 1486
+Sri Lanka 	India 	Sri Lanka 	7 wickets 	Colombo (RPS) 	Aug 25, 1999 	ODI # 1487
+Australia 	India 	Australia 	41 runs 	Colombo (SSC) 	Aug 28, 1999 	ODI # 1489
+Sri Lanka 	India 	India 	23 runs 	Colombo (SSC) 	Aug 29, 1999 	ODI # 1490
+India 	Zimbabwe 	India 	115 runs 	Singapore 	Sep 4, 1999 	ODI # 1493
+India 	West Indies 	West Indies 	42 runs 	Singapore 	Sep 5, 1999 	ODI # 1494
+India 	West Indies 	West Indies 	4 wickets 	Singapore 	Sep 8, 1999 	ODI # 1496
+India 	West Indies 	India 	8 wickets 	Toronto 	Sep 11, 1999 	ODI # 1497
+India 	West Indies 	West Indies 	70 runs 	Toronto 	Sep 12, 1999 	ODI # 1498
+India 	West Indies 	India 	88 runs 	Toronto 	Sep 14, 1999 	ODI # 1499
+India 	South Africa 	India 	8 wickets 	Nairobi (Gym) 	Sep 26, 1999 	ODI # 1504
+Kenya 	India 	India 	58 runs 	Nairobi (Gym) 	Sep 29, 1999 	ODI # 1506
+India 	Zimbabwe 	India 	107 runs 	Nairobi (Gym) 	Oct 1, 1999 	ODI # 1508
+India 	South Africa 	South Africa 	26 runs 	Nairobi (Gym) 	Oct 3, 1999 	ODI # 1509
+India 	New Zealand 	New Zealand 	43 runs 	Rajkot 	Nov 5, 1999 	ODI # 1522
+India 	New Zealand 	India 	174 runs 	Hyderabad (Deccan) 	Nov 8, 1999 	ODI # 1523
+India 	New Zealand 	India 	14 runs 	Gwalior 	Nov 11, 1999 	ODI # 1524
+India 	New Zealand 	New Zealand 	48 runs 	Guwahati 	Nov 14, 1999 	ODI # 1525
+India 	New Zealand 	India 	7 wickets 	Delhi 	Nov 17, 1999 	ODI # 1526
+Australia 	India 	India 	66 runs 	Melbourne 	Dec 6, 1980 	ODI # 97
+India 	New Zealand 	India 	5 runs 	Perth 	Dec 9, 1980 	ODI # 99
+Australia 	India 	Australia 	9 wickets 	Sydney 	Dec 18, 1980 	ODI # 100
+India 	New Zealand 	New Zealand 	3 wickets 	Brisbane 	Dec 21, 1980 	ODI # 102
+India 	New Zealand 	India 	6 runs 	Adelaide 	Dec 23, 1980 	ODI # 103
+Australia 	India 	Australia 	9 wickets 	Sydney 	Jan 8, 1981 	ODI # 104
+India 	New Zealand 	New Zealand 	10 wickets 	Melbourne 	Jan 10, 1981 	ODI # 105
+Australia 	India 	Australia 	7 wickets 	Melbourne 	Jan 11, 1981 	ODI # 106
+Australia 	India 	Australia 	27 runs 	Sydney 	Jan 15, 1981 	ODI # 108
+India 	New Zealand 	New Zealand 	22 runs 	Brisbane 	Jan 18, 1981 	ODI # 109
+New Zealand 	India 	New Zealand 	78 runs 	Auckland 	Feb 14, 1981 	ODI # 116
+New Zealand 	India 	New Zealand 	57 runs 	Hamilton 	Feb 15, 1981 	ODI # 117
+India 	England 	England 	5 wickets 	Ahmedabad 	Nov 25, 1981 	ODI # 125
+India 	England 	India 	6 wickets 	Jalandhar 	Dec 20, 1981 	ODI # 131
+India 	England 	India 	5 wickets 	Cuttack 	Jan 27, 1982 	ODI # 143
+England 	India 	England 	9 wickets 	Leeds 	Jun 2, 1982 	ODI # 152
+England 	India 	England 	114 runs 	The Oval 	Jun 4, 1982 	ODI # 153
+India 	Sri Lanka 	India 	78 runs 	Amritsar 	Sep 12, 1982 	ODI # 156
+India 	Sri Lanka 	India 	6 wickets 	Delhi 	Sep 15, 1982 	ODI # 157
+India 	Sri Lanka 	India 	6 wickets 	Bangalore 	Sep 26, 1982 	ODI # 159
+Pakistan 	India 	Pakistan 	14 runs 	Gujranwala 	Dec 3, 1982 	ODI # 162
+Pakistan 	India 	Pakistan 	37 runs 	Multan 	Dec 17, 1982 	ODI # 163
+Pakistan 	India 	India 	18 runs 	Lahore 	Dec 31, 1982 	ODI # 164
+Pakistan 	India 	Pakistan 	8 wickets 	Karachi 	Jan 21, 1983 	ODI # 172
+West Indies 	India 	West Indies 	52 runs 	Port of Spain 	Mar 9, 1983 	ODI # 187
+West Indies 	India 	India 	27 runs 	Albion 	Mar 29, 1983 	ODI # 191
+West Indies 	India 	West Indies 	7 wickets 	St George's 	Apr 7, 1983 	ODI # 192
+India 	West Indies 	India 	34 runs 	Manchester 	Jun 9-10, 1983 	ODI # 200
+India 	Zimbabwe 	India 	5 wickets 	Leicester 	Jun 11, 1983 	ODI # 204
+Australia 	India 	Australia 	162 runs 	Nottingham 	Jun 13, 1983 	ODI # 207
+India 	West Indies 	West Indies 	66 runs 	The Oval 	Jun 15, 1983 	ODI # 210
+India 	Zimbabwe 	India 	31 runs 	Tunbridge Wells 	Jun 18, 1983 	ODI # 216
+Australia 	India 	India 	118 runs 	Chelmsford 	Jun 20, 1983 	ODI # 219
+England 	India 	India 	6 wickets 	Manchester 	Jun 22, 1983 	ODI # 221
+India 	West Indies 	India 	43 runs 	Lord's 	Jun 25, 1983 	ODI # 223
+India 	Pakistan 	India 	4 wickets 	Hyderabad (Deccan) 	Sep 10, 1983 	ODI # 224
+India 	Pakistan 	India 	4 wickets 	Jaipur 	Oct 2, 1983 	ODI # 225
+India 	West Indies 	West Indies 	28 runs 	Srinagar 	Oct 13, 1983 	ODI # 226
+India 	West Indies 	West Indies 	4 wickets 	Vadodara 	Nov 9, 1983 	ODI # 227
+India 	West Indies 	West Indies 	8 wickets 	Indore 	Dec 1, 1983 	ODI # 228
+India 	West Indies 	West Indies 	104 runs 	Jamshedpur 	Dec 7, 1983 	ODI # 229
+India 	West Indies 	West Indies 	6 wickets 	Guwahati 	Dec 17, 1983 	ODI # 230
+India 	Sri Lanka 	India 	10 wickets 	Sharjah 	Apr 8, 1984 	ODI # 260
+India 	Pakistan 	India 	54 runs 	Sharjah 	Apr 13, 1984 	ODI # 261
+India 	Australia 	Australia 	48 runs 	New Delhi 	Sep 28, 1984 	ODI # 267
+India 	Australia 	Australia 	7 wickets 	Ahmedabad 	Oct 5, 1984 	ODI # 270
+India 	Australia 	Australia 	6 wickets 	Indore 	Oct 6, 1984 	ODI # 271
+Pakistan 	India 	Pakistan 	46 runs 	Quetta 	Oct 12, 1984 	ODI # 272
+India 	England 	England 	4 wickets 	Pune 	Dec 5, 1984 	ODI # 279
+India 	England 	England 	1 run 	Cuttack 	Dec 27, 1984 	ODI # 281
+India 	England 	England 	3 wickets 	Bangalore 	Jan 20, 1985 	ODI # 293
+India 	England 	India 	3 wickets 	Nagpur 	Jan 23, 1985 	ODI # 295
+India 	England 	England 	7 runs 	Chandigarh 	Jan 27, 1985 	ODI # 298
+India 	Pakistan 	India 	6 wickets 	Melbourne 	Feb 20, 1985 	ODI # 309
+England 	India 	India 	86 runs 	Sydney 	Feb 26, 1985 	ODI # 312
+Australia 	India 	India 	8 wickets 	Melbourne 	Mar 3, 1985 	ODI # 315
+India 	New Zealand 	India 	7 wickets 	Sydney 	Mar 5, 1985 	ODI # 316
+India 	Pakistan 	India 	8 wickets 	Melbourne 	Mar 10, 1985 	ODI # 319
+India 	Pakistan 	India 	38 runs 	Sharjah 	Mar 22, 1985 	ODI # 321
+Australia 	India 	India 	3 wickets 	Sharjah 	Mar 29, 1985 	ODI # 325
+Sri Lanka 	India 	India 	2 wickets 	Colombo (SSC) 	Aug 25, 1985 	ODI # 332
+Sri Lanka 	India 	Sri Lanka 	14 runs 	Colombo (PSS) 	Sep 21, 1985 	ODI # 333
+India 	Pakistan 	Pakistan 	48 runs 	Sharjah 	Nov 17, 1985 	ODI # 340
+India 	West Indies 	West Indies 	8 wickets 	Sharjah 	Nov 22, 1985 	ODI # 341
+India 	New Zealand 	India 	5 wickets 	Brisbane 	Jan 11, 1986 	ODI # 348
+Australia 	India 	Australia 	4 wickets 	Brisbane 	Jan 12, 1986 	ODI # 349
+Australia 	India 	India 	8 wickets 	Melbourne 	Jan 16, 1986 	ODI # 351
+India 	New Zealand 	New Zealand 	3 wickets 	Perth 	Jan 18, 1986 	ODI # 352
+Australia 	India 	Australia 	100 runs 	Sydney 	Jan 21, 1986 	ODI # 354
+India 	New Zealand 	New Zealand 	5 wickets 	Melbourne 	Jan 23, 1986 	ODI # 355
+India 	New Zealand 	India 	5 wickets 	Adelaide 	Jan 25, 1986 	ODI # 356
+Australia 	India 	Australia 	36 runs 	Adelaide 	Jan 26, 1986 	ODI # 357
+Australia 	India 	India 	6 wickets 	Melbourne 	Jan 31, 1986 	ODI # 360
+India 	New Zealand 	India 	22 runs 	Launceston 	Feb 2, 1986 	ODI # 361
+Australia 	India 	Australia 	11 runs 	Sydney 	Feb 5, 1986 	ODI # 362
+Australia 	India 	Australia 	7 wickets 	Melbourne 	Feb 9, 1986 	ODI # 363
+India 	New Zealand 	India 	3 wickets 	Sharjah 	Apr 10, 1986 	ODI # 381
+India 	Sri Lanka 	India 	3 wickets 	Sharjah 	Apr 13, 1986 	ODI # 383
+India 	Pakistan 	Pakistan 	1 wicket 	Sharjah 	Apr 18, 1986 	ODI # 385
+England 	India 	India 	9 wickets 	The Oval 	May 24, 1986 	ODI # 386
+England 	India 	England 	5 wickets 	Manchester 	May 26, 1986 	ODI # 387
+India 	Australia 	India 	7 wickets 	Jaipur 	Sep 7, 1986 	ODI # 390
+India 	Australia 	Australia 	3 wickets 	Srinagar 	Sep 9, 1986 	ODI # 391
+India 	Australia 	India 	3 wickets 	Delhi 	Oct 2, 1986 	ODI # 393
+India 	Australia 	India 	52 runs 	Ahmedabad 	Oct 5, 1986 	ODI # 394
+India 	Australia 	Australia 	7 wickets 	Rajkot 	Oct 7, 1986 	ODI # 395
+India 	Sri Lanka 	India 	7 wickets 	Sharjah 	Nov 27, 1986 	ODI # 401
+India 	West Indies 	West Indies 	33 runs 	Sharjah 	Nov 30, 1986 	ODI # 403
+India 	Pakistan 	Pakistan 	3 wickets 	Sharjah 	Dec 5, 1986 	ODI # 406
+India 	Sri Lanka 	Sri Lanka 	117 runs 	Kanpur 	Dec 24, 1986 	ODI # 407
+India 	Sri Lanka 	India 	8 wickets 	Guwahati 	Jan 11, 1987 	ODI # 415
+India 	Sri Lanka 	India 	6 wickets 	Delhi 	Jan 13, 1987 	ODI # 416
+India 	Sri Lanka 	India 	94 runs 	Vadodara 	Jan 15, 1987 	ODI # 417
+India 	Sri Lanka 	India 	10 runs 	Mumbai 	Jan 17, 1987 	ODI # 419
+India 	Pakistan 	Pakistan 	3 wickets 	Indore 	Jan 27, 1987 	ODI # 426
+India 	Pakistan 	Pakistan 	2 wickets 	Kolkata 	Feb 18, 1987 	ODI # 434
+India 	Pakistan 	India 		Hyderabad (Deccan) 	Mar 20, 1987 	ODI # 436
+India 	Pakistan 	Pakistan 	6 wickets 	Pune 	Mar 22, 1987 	ODI # 438
+India 	Pakistan 	Pakistan 	41 runs 	Nagpur 	Mar 24, 1987 	ODI # 439
+India 	Pakistan 	Pakistan 	5 wickets 	Jamshedpur 	Mar 26, 1987 	ODI # 440
+England 	India 	India 	3 wickets 	Sharjah 	Apr 2, 1987 	ODI # 442
+Australia 	India 	India 	7 wickets 	Sharjah 	Apr 5, 1987 	ODI # 444
+India 	Pakistan 	Pakistan 	8 wickets 	Sharjah 	Apr 10, 1987 	ODI # 447
+India 	Australia 	Australia 	1 run 	Chennai 	Oct 9, 1987 	ODI # 453
+India 	New Zealand 	India 	16 runs 	Bangalore 	Oct 14, 1987 	ODI # 458
+India 	Zimbabwe 	India 	8 wickets 	Mumbai 	Oct 17, 1987 	ODI # 461
+India 	Australia 	India 	56 runs 	Delhi 	Oct 22, 1987 	ODI # 465
+India 	Zimbabwe 	India 	7 wickets 	Ahmedabad 	Oct 26, 1987 	ODI # 469
+India 	New Zealand 	India 	9 wickets 	Nagpur 	Oct 31, 1987 	ODI # 474
+India 	England 	England 	35 runs 	Mumbai 	Nov 5, 1987 	ODI # 476
+India 	West Indies 	West Indies 	10 runs 	Nagpur 	Dec 8, 1987 	ODI # 481
+India 	West Indies 	West Indies 	52 runs 	Guwahati 	Dec 23, 1987 	ODI # 482
+India 	West Indies 	India 	56 runs 	Kolkata 	Jan 2, 1988 	ODI # 483
+India 	West Indies 	West Indies 	6 wickets 	Rajkot 	Jan 5, 1988 	ODI # 487
+India 	West Indies 	West Indies 	2 runs 	Ahmedabad 	Jan 7, 1988 	ODI # 489
+India 	West Indies 	West Indies 	4 wickets 	Faridabad 	Jan 19, 1988 	ODI # 497
+India 	West Indies 	West Indies 	73 runs 	Gwalior 	Jan 22, 1988 	ODI # 500
+India 	West Indies 	West Indies 	9 wickets 	Thiruvananthapuram 	Jan 25, 1988 	ODI # 502
+India 	Sri Lanka 	India 	18 runs 	Sharjah 	Mar 25, 1988 	ODI # 512
+India 	New Zealand 	India 	73 runs 	Sharjah 	Mar 27, 1988 	ODI # 513
+India 	New Zealand 	India 	52 runs 	Sharjah 	Apr 1, 1988 	ODI # 517
+India 	West Indies 	India 	23 runs 	Sharjah 	Oct 16, 1988 	ODI # 523
+India 	Pakistan 	Pakistan 	34 runs 	Sharjah 	Oct 19, 1988 	ODI # 525
+India 	West Indies 	West Indies 	8 wickets 	Sharjah 	Oct 21, 1988 	ODI # 526
+Bangladesh 	India 	India 	9 wickets 	Chittagong 	Oct 27, 1988 	ODI # 529
+India 	Sri Lanka 	Sri Lanka 	17 runs 	Dhaka 	Oct 29, 1988 	ODI # 530
+India 	Pakistan 	India 	4 wickets 	Dhaka 	Oct 31, 1988 	ODI # 532
+India 	Sri Lanka 	India 	6 wickets 	Dhaka 	Nov 4, 1988 	ODI # 534
+India 	New Zealand 	India 	4 wickets 	Visakhapatnam 	Dec 10, 1988 	ODI # 536
+India 	New Zealand 	India 	5 wickets 	Cuttack 	Dec 12, 1988 	ODI # 538
+India 	New Zealand 	India 	53 runs 	Indore 	Dec 15, 1988 	ODI # 541
+India 	New Zealand 	India 	2 wickets 	Vadodara 	Dec 17, 1988 	ODI # 543
+West Indies 	India 	West Indies 	50 runs 	Bridgetown 	Mar 7, 1989 	ODI # 556
+West Indies 	India 	West Indies 	6 wickets 	Port of Spain 	Mar 9, 1989 	ODI # 558
+West Indies 	India 	West Indies 	6 wickets 	Port of Spain 	Mar 11, 1989 	ODI # 560
+West Indies 	India 	West Indies 	8 wickets 	St John's 	Mar 18, 1989 	ODI # 562
+West Indies 	India 	West Indies 	101 runs 	Georgetown 	Mar 21, 1989 	ODI # 563
+India 	West Indies 	West Indies 	5 wickets 	Sharjah 	Oct 13, 1989 	ODI # 569
+India 	Pakistan 	Pakistan 	6 wickets 	Sharjah 	Oct 15, 1989 	ODI # 572
+India 	West Indies 	India 	37 runs 	Sharjah 	Oct 16, 1989 	ODI # 573
+India 	Pakistan 	Pakistan 	38 runs 	Sharjah 	Oct 20, 1989 	ODI # 577
+India 	Sri Lanka 	India 	6 runs 	Ahmedabad 	Oct 22, 1989 	ODI # 580
+India 	West Indies 	West Indies 	20 runs 	Delhi 	Oct 23, 1989 	ODI # 582
+India 	England 	India 	6 wickets 	Kanpur 	Oct 25, 1989 	ODI # 583
+India 	Australia 	India 	3 wickets 	Bangalore 	Oct 27, 1989 	ODI # 587
+India 	Pakistan 	Pakistan 	77 runs 	Kolkata 	Oct 28, 1989 	ODI # 589
+India 	West Indies 	West Indies 	8 wickets 	Mumbai 	Oct 30, 1989 	ODI # 591
+Pakistan 	India 	Pakistan 	7 runs 	Gujranwala 	Dec 18, 1989 	ODI # 593
+Pakistan 	India 	Pakistan 	38 runs 	Lahore 	Dec 22, 1989 	ODI # 595
+England 	India 	England 	4 wickets 	Leeds 	Jul 13, 1974 	ODI # 12
+England 	India 	England 	6 wickets 	The Oval 	Jul 15-16, 1974 	ODI # 13
+England 	India 	England 	202 runs 	Lord's 	Jun 7, 1975 	ODI # 19
+East Africa 	India 	India 	10 wickets 	Leeds 	Jun 11, 1975 	ODI # 24
+India 	New Zealand 	New Zealand 	4 wickets 	Manchester 	Jun 14, 1975 	ODI # 28
+New Zealand 	India 	New Zealand 	9 wickets 	Christchurch 	Feb 21, 1976 	ODI # 35
+New Zealand 	India 	New Zealand 	80 runs 	Auckland 	Feb 22, 1976 	ODI # 36
+Pakistan 	India 	India 	4 runs 	Quetta 	Oct 1, 1978 	ODI # 54
+Pakistan 	India 	Pakistan 	8 wickets 	Sialkot 	Oct 13, 1978 	ODI # 55
+Pakistan 	India 	Pakistan 		Sahiwal 	Nov 3, 1978 	ODI # 56
+India 	West Indies 	West Indies 	9 wickets 	Birmingham 	Jun 9, 1979 	ODI # 61
+India 	New Zealand 	New Zealand 	8 wickets 	Leeds 	Jun 13, 1979 	ODI # 65
+India 	Sri Lanka 	Sri Lanka 	47 runs 	Manchester 	Jun 16-18, 1979 	ODI # 68
+India 	Pakistan 	Pakistan 	2 wickets 	Brisbane 	Jan 10, 2000 	ODI # 1537
+Australia 	India 	Australia 	28 runs 	Melbourne 	Jan 12, 2000 	ODI # 1539
+Australia 	India 	Australia 	5 wickets 	Sydney 	Jan 14, 2000 	ODI # 1540
+India 	Pakistan 	Pakistan 	32 runs 	Hobart 	Jan 21, 2000 	ODI # 1543
+India 	Pakistan 	India 	48 runs 	Adelaide 	Jan 25, 2000 	ODI # 1547
+Australia 	India 	Australia 	152 runs 	Adelaide 	Jan 26, 2000 	ODI # 1548
+India 	Pakistan 	Pakistan 	104 runs 	Perth 	Jan 28, 2000 	ODI # 1550
+Australia 	India 	Australia 	4 wickets 	Perth 	Jan 30, 2000 	ODI # 1552
+India 	South Africa 	India 	3 wickets 	Kochi 	Mar 9, 2000 	ODI # 1572
+India 	South Africa 	India 	6 wickets 	Jamshedpur 	Mar 12, 2000 	ODI # 1573
+India 	South Africa 	South Africa 	2 wickets 	Faridabad 	Mar 15, 2000 	ODI # 1574
+India 	South Africa 	India 	4 wickets 	Vadodara 	Mar 17, 2000 	ODI # 1575
+India 	South Africa 	South Africa 	10 runs 	Nagpur 	Mar 19, 2000 	ODI # 1576
+India 	South Africa 	South Africa 	10 wickets 	Sharjah 	Mar 22, 2000 	ODI # 1577
+India 	Pakistan 	India 	5 wickets 	Sharjah 	Mar 23, 2000 	ODI # 1578
+India 	Pakistan 	Pakistan 	98 runs 	Sharjah 	Mar 26, 2000 	ODI # 1580
+India 	South Africa 	South Africa 	6 wickets 	Sharjah 	Mar 27, 2000 	ODI # 1581
+Bangladesh 	India 	India 	8 wickets 	Dhaka 	May 30-31, 2000 	ODI # 1597
+India 	Sri Lanka 	Sri Lanka 	71 runs 	Dhaka 	Jun 1, 2000 	ODI # 1598
+India 	Pakistan 	Pakistan 	44 runs 	Dhaka 	Jun 3, 2000 	ODI # 1600
+Kenya 	India 	India 	8 wickets 	Nairobi (Gym) 	Oct 3, 2000 	ODI # 1630
+Australia 	India 	India 	20 runs 	Nairobi (Gym) 	Oct 7, 2000 	ODI # 1633
+India 	South Africa 	India 	95 runs 	Nairobi (Gym) 	Oct 13, 2000 	ODI # 1638
+India 	New Zealand 	New Zealand 	4 wickets 	Nairobi (Gym) 	Oct 15, 2000 	ODI # 1639
+India 	Sri Lanka 	Sri Lanka 	5 wickets 	Sharjah 	Oct 20, 2000 	ODI # 1640
+India 	Zimbabwe 	India 	13 runs 	Sharjah 	Oct 22, 2000 	ODI # 1644
+India 	Zimbabwe 	India 	3 wickets 	Sharjah 	Oct 26, 2000 	ODI # 1648
+India 	Sri Lanka 	Sri Lanka 	68 runs 	Sharjah 	Oct 27, 2000 	ODI # 1650
+India 	Sri Lanka 	Sri Lanka 	245 runs 	Sharjah 	Oct 29, 2000 	ODI # 1652
+India 	Zimbabwe 	India 	3 wickets 	Cuttack 	Dec 2, 2000 	ODI # 1656
+India 	Zimbabwe 	India 	61 runs 	Ahmedabad 	Dec 5, 2000 	ODI # 1657
+India 	Zimbabwe 	Zimbabwe 	1 wicket 	Jodhpur 	Dec 8, 2000 	ODI # 1658
+India 	Zimbabwe 	India 	9 wickets 	Kanpur 	Dec 11, 2000 	ODI # 1659
+India 	Zimbabwe 	India 	39 runs 	Rajkot 	Dec 14, 2000 	ODI # 1660
+India 	Australia 	India 	60 runs 	Bangalore 	Mar 25, 2001 	ODI # 1696
+India 	Australia 	Australia 	8 wickets 	Pune 	Mar 28, 2001 	ODI # 1698
+India 	Australia 	India 	118 runs 	Indore 	Mar 31, 2001 	ODI # 1699
+India 	Australia 	Australia 	93 runs 	Visakhapatnam 	Apr 3, 2001 	ODI # 1700
+India 	Australia 	Australia 	4 wickets 	Margao 	Apr 6, 2001 	ODI # 1701
+Zimbabwe 	India 	India 	9 wickets 	Harare 	Jun 24, 2001 	ODI # 1729
+Zimbabwe 	India 	India 	4 wickets 	Bulawayo 	Jun 27, 2001 	ODI # 1730
+India 	West Indies 	India 	6 wickets 	Bulawayo 	Jun 30, 2001 	ODI # 1731
+India 	West Indies 	India 	6 wickets 	Harare 	Jul 4, 2001 	ODI # 1733
+India 	West Indies 	West Indies 	16 runs 	Harare 	Jul 7, 2001 	ODI # 1734
+India 	New Zealand 	New Zealand 	84 runs 	Colombo (RPS) 	Jul 20, 2001 	ODI # 1736
+Sri Lanka 	India 	Sri Lanka 	6 runs 	Colombo (RPS) 	Jul 22, 2001 	ODI # 1737
+India 	New Zealand 	New Zealand 	67 runs 	Colombo (RPS) 	Jul 26, 2001 	ODI # 1739
+Sri Lanka 	India 	India 	7 wickets 	Colombo (RPS) 	Jul 28, 2001 	ODI # 1740
+Sri Lanka 	India 	India 	46 runs 	Colombo (SSC) 	Aug 1, 2001 	ODI # 1742
+India 	New Zealand 	India 	7 wickets 	Colombo (SSC) 	Aug 2, 2001 	ODI # 1743
+Sri Lanka 	India 	Sri Lanka 	121 runs 	Colombo (RPS) 	Aug 5, 2001 	ODI # 1744
+South Africa 	India 	South Africa 	6 wickets 	Johannesburg 	Oct 5, 2001 	ODI # 1752
+South Africa 	India 	India 	41 runs 	Centurion 	Oct 10, 2001 	ODI # 1757
+India 	Kenya 	India 	10 wickets 	Bloemfontein 	Oct 12, 2001 	ODI # 1758
+India 	Kenya 	Kenya 	70 runs 	Port Elizabeth 	Oct 17, 2001 	ODI # 1761
+South Africa 	India 	South Africa 	46 runs 	East London 	Oct 19, 2001 	ODI # 1762
+India 	Kenya 	India 	186 runs 	Paarl 	Oct 24, 2001 	ODI # 1764
+South Africa 	India 	South Africa 	6 wickets 	Durban 	Oct 26, 2001 	ODI # 1766
+India 	England 	India 	22 runs 	Kolkata 	Jan 19, 2002 	ODI # 1788
+India 	England 	England 	16 runs 	Cuttack 	Jan 22, 2002 	ODI # 1792
+India 	England 	India 	4 wickets 	Chennai 	Jan 25, 2002 	ODI # 1795
+India 	England 	India 	8 wickets 	Kanpur 	Jan 28, 2002 	ODI # 1798
+India 	England 	England 	2 runs 	Delhi 	Jan 31, 2002 	ODI # 1800
+India 	England 	England 	5 runs 	Mumbai 	Feb 3, 2002 	ODI # 1803
+India 	Zimbabwe 	Zimbabwe 	1 wicket 	Faridabad 	Mar 7, 2002 	ODI # 1814
+India 	Zimbabwe 	India 	64 runs 	Mohali 	Mar 10, 2002 	ODI # 1815
+India 	Zimbabwe 	Zimbabwe 	6 wickets 	Kochi 	Mar 13, 2002 	ODI # 1816
+India 	Zimbabwe 	India 	5 wickets 	Hyderabad (Deccan) 	Mar 16, 2002 	ODI # 1817
+India 	Zimbabwe 	India 	101 runs 	Guwahati 	Mar 19, 2002 	ODI # 1818
+West Indies 	India 	India 	7 wickets 	Bridgetown 	May 29, 2002 	ODI # 1836
+West Indies 	India 	West Indies 	7 wickets 	Port of Spain 	Jun 1, 2002 	ODI # 1837
+West Indies 	India 	India 	56 runs 	Port of Spain 	Jun 2, 2002 	ODI # 1838
+England 	India 	India 	6 wickets 	Lord's 	Jun 29, 2002 	ODI # 1848
+India 	Sri Lanka 	India 	4 wickets 	The Oval 	Jun 30, 2002 	ODI # 1849
+India 	Sri Lanka 	India 	4 wickets 	Birmingham 	Jul 6, 2002 	ODI # 1852
+England 	India 	England 	64 runs 	The Oval 	Jul 9, 2002 	ODI # 1854
+India 	Sri Lanka 	India 	63 runs 	Bristol 	Jul 11, 2002 	ODI # 1855
+England 	India 	India 	2 wickets 	Lord's 	Jul 13, 2002 	ODI # 1856
+India 	Zimbabwe 	India 	14 runs 	Colombo (RPS) 	Sep 14, 2002 	ODI # 1876
+England 	India 	India 	8 wickets 	Colombo (RPS) 	Sep 22, 2002 	ODI # 1884
+India 	South Africa 	India 	10 runs 	Colombo (RPS) 	Sep 25, 2002 	ODI # 1886
+India 	West Indies 	West Indies 	4 wickets 	Jamshedpur 	Nov 6, 2002 	ODI # 1893
+India 	West Indies 	West Indies 	7 wickets 	Nagpur 	Nov 9, 2002 	ODI # 1894
+India 	West Indies 	India 	81 runs 	Rajkot 	Nov 12, 2002 	ODI # 1895
+India 	West Indies 	India 	5 wickets 	Ahmedabad 	Nov 15, 2002 	ODI # 1896
+India 	West Indies 	West Indies 	5 wickets 	Vadodara 	Nov 18, 2002 	ODI # 1897
+India 	West Indies 	India 	3 wickets 	Jodhpur 	Nov 21, 2002 	ODI # 1898
+India 	West Indies 	West Indies 	135 runs 	Vijayawada 	Nov 24, 2002 	ODI # 1900
+New Zealand 	India 	New Zealand 	3 wickets 	Auckland 	Dec 26, 2002 	ODI # 1926
+New Zealand 	India 	New Zealand 	35 runs 	Napier 	Dec 29, 2002 	ODI # 1927
+New Zealand 	India 	New Zealand 	5 wickets 	Christchurch 	Jan 1, 2003 	ODI # 1928
+New Zealand 	India 	New Zealand 	7 wickets 	Queenstown 	Jan 4, 2003 	ODI # 1929
+New Zealand 	India 	India 	2 wickets 	Wellington 	Jan 8, 2003 	ODI # 1930
+New Zealand 	India 	India 	1 wicket 	Auckland 	Jan 11, 2003 	ODI # 1933
+New Zealand 	India 	New Zealand 	6 wickets 	Hamilton 	Jan 14, 2003 	ODI # 1935
+India 	Netherlands 	India 	68 runs 	Paarl 	Feb 12, 2003 	ODI # 1948
+Australia 	India 	Australia 	9 wickets 	Centurion 	Feb 15, 2003 	ODI # 1951
+Zimbabwe 	India 	India 	83 runs 	Harare 	Feb 19, 2003 	ODI # 1957
+India 	Namibia 	India 	181 runs 	Pietermaritzburg 	Feb 23, 2003 	ODI # 1964
+England 	India 	India 	82 runs 	Durban 	Feb 26, 2003 	ODI # 1969
+India 	Pakistan 	India 	6 wickets 	Centurion 	Mar 1, 2003 	ODI # 1975
+India 	Kenya 	India 	6 wickets 	Cape Town 	Mar 7, 2003 	ODI # 1983
+India 	Sri Lanka 	India 	183 runs 	Johannesburg 	Mar 10, 2003 	ODI # 1985
+India 	New Zealand 	India 	7 wickets 	Centurion 	Mar 14, 2003 	ODI # 1988
+India 	Kenya 	India 	91 runs 	Durban 	Mar 20, 2003 	ODI # 1992
+Australia 	India 	Australia 	125 runs 	Johannesburg 	Mar 23, 2003 	ODI # 1993
+Bangladesh 	India 	India 	200 runs 	Dhaka 	Apr 11, 2003 	ODI # 2001
+India 	South Africa 	India 	153 runs 	Dhaka 	Apr 13, 2003 	ODI # 2002
+Bangladesh 	India 	India 	4 wickets 	Dhaka 	Apr 16, 2003 	ODI # 2004
+India 	South Africa 	South Africa 	5 wickets 	Dhaka 	Apr 18, 2003 	ODI # 2006
+India 	Australia 	India 	37 runs 	Gwalior 	Oct 26, 2003 	ODI # 2052
+India 	Australia 	Australia 	77 runs 	Mumbai 	Nov 1, 2003 	ODI # 2054
+India 	New Zealand 	New Zealand 	4 wickets 	Cuttack 	Nov 6, 2003 	ODI # 2056
+India 	Australia 	Australia 	61 runs 	Bangalore 	Nov 12, 2003 	ODI # 2061
+India 	New Zealand 	India 	145 runs 	Hyderabad (Deccan) 	Nov 15, 2003 	ODI # 2062
+India 	Australia 	Australia 	37 runs 	Kolkata 	Nov 18, 2003 	ODI # 2064
+Australia 	India 	Australia 	18 runs 	Melbourne 	Jan 9, 2004 	ODI # 2077
+India 	Zimbabwe 	India 	7 wickets 	Hobart 	Jan 14, 2004 	ODI # 2080
+Australia 	India 	India 	19 runs 	Brisbane 	Jan 18, 2004 	ODI # 2084
+India 	Zimbabwe 	India 	24 runs 	Brisbane 	Jan 20, 2004 	ODI # 2085
+Australia 	India 	Australia 	2 wickets 	Sydney 	Jan 22, 2004 	ODI # 2086
+India 	Zimbabwe 	India 	3 runs 	Adelaide 	Jan 24, 2004 	ODI # 2087
+Australia 	India 	Australia 	5 wickets 	Perth 	Feb 1, 2004 	ODI # 2093
+India 	Zimbabwe 	India 	4 wickets 	Perth 	Feb 3, 2004 	ODI # 2095
+Australia 	India 	Australia 	7 wickets 	Melbourne 	Feb 6, 2004 	ODI # 2097
+Australia 	India 	Australia 	208 runs 	Sydney 	Feb 8, 2004 	ODI # 2098
+Pakistan 	India 	India 	5 runs 	Karachi 	Mar 13, 2004 	ODI # 2112
+Pakistan 	India 	Pakistan 	12 runs 	Rawalpindi 	Mar 16, 2004 	ODI # 2114
+Pakistan 	India 	Pakistan 	4 wickets 	Peshawar 	Mar 19, 2004 	ODI # 2115
+Pakistan 	India 	India 	5 wickets 	Lahore 	Mar 21, 2004 	ODI # 2116
+Pakistan 	India 	India 	40 runs 	Lahore 	Mar 24, 2004 	ODI # 2117
+India 	U.A.E. 	India 	116 runs 	Dambulla 	Jul 16, 2004 	ODI # 2144
+Sri Lanka 	India 	Sri Lanka 	12 runs 	Dambulla 	Jul 18, 2004 	ODI # 2148
+Bangladesh 	India 	India 	8 wickets 	Colombo (SSC) 	Jul 21, 2004 	ODI # 2149
+India 	Pakistan 	Pakistan 	59 runs 	Colombo (RPS) 	Jul 25, 2004 	ODI # 2152
+Sri Lanka 	India 	India 	4 runs 	Colombo (RPS) 	Jul 27, 2004 	ODI # 2153
+Sri Lanka 	India 	Sri Lanka 	25 runs 	Colombo (RPS) 	Aug 1, 2004 	ODI # 2155
+India 	Pakistan 	Pakistan 	66 runs 	Amstelveen 	Aug 21, 2004 	ODI # 2157
+England 	India 	England 	7 wickets 	Nottingham 	Sep 1, 2004 	ODI # 2164
+England 	India 	England 	70 runs 	The Oval 	Sep 3, 2004 	ODI # 2165
+England 	India 	India 	23 runs 	Lord's 	Sep 5, 2004 	ODI # 2167
+India 	Kenya 	India 	98 runs 	Southampton 	Sep 11, 2004 	ODI # 2170
+India 	Pakistan 	Pakistan 	3 wickets 	Birmingham 	Sep 19, 2004 	ODI # 2179
+India 	Pakistan 	Pakistan 	6 wickets 	Kolkata 	Nov 13, 2004 	ODI # 2192
+Bangladesh 	India 	India 	11 runs 	Chittagong 	Dec 23, 2004 	ODI # 2199
+Bangladesh 	India 	Bangladesh 	15 runs 	Dhaka 	Dec 26, 2004 	ODI # 2201
+Bangladesh 	India 	India 	91 runs 	Dhaka 	Dec 27, 2004 	ODI # 2202
+India 	Pakistan 	India 	87 runs 	Kochi 	Apr 2, 2005 	ODI # 2235
+India 	Pakistan 	India 	58 runs 	Visakhapatnam 	Apr 5, 2005 	ODI # 2236
+India 	Pakistan 	Pakistan 	106 runs 	Jamshedpur 	Apr 9, 2005 	ODI # 2237
+India 	Pakistan 	Pakistan 	3 wickets 	Ahmedabad 	Apr 12, 2005 	ODI # 2238
+India 	Pakistan 	Pakistan 	5 wickets 	Kanpur 	Apr 15, 2005 	ODI # 2239
+India 	Pakistan 	Pakistan 	159 runs 	Delhi 	Apr 17, 2005 	ODI # 2240
+Sri Lanka 	India 	Sri Lanka 	3 wickets 	Dambulla 	Jul 30, 2005 	ODI # 2262
+India 	West Indies 	India 	6 wickets 	Dambulla 	Jul 31, 2005 	ODI # 2263
+Sri Lanka 	India 	Sri Lanka 	4 wickets 	Dambulla 	Aug 3, 2005 	ODI # 2265
+India 	West Indies 	India 	7 runs 	Colombo (RPS) 	Aug 7, 2005 	ODI # 2267
+Sri Lanka 	India 	Sri Lanka 	18 runs 	Colombo (RPS) 	Aug 9, 2005 	ODI # 2268
+India 	New Zealand 	New Zealand 	51 runs 	Bulawayo 	Aug 26, 2005 	ODI # 2273
+Zimbabwe 	India 	India 	161 runs 	Harare 	Aug 29, 2005 	ODI # 2274
+India 	New Zealand 	India 	6 wickets 	Harare 	Sep 2, 2005 	ODI # 2278
+Zimbabwe 	India 	India 	4 wickets 	Harare 	Sep 4, 2005 	ODI # 2280
+India 	New Zealand 	New Zealand 	6 wickets 	Harare 	Sep 6, 2005 	ODI # 2281
+India 	Sri Lanka 	India 	152 runs 	Nagpur 	Oct 25, 2005 	ODI # 2286
+India 	Sri Lanka 	India 	8 wickets 	Mohali 	Oct 28, 2005 	ODI # 2287
+India 	Sri Lanka 	India 	6 wickets 	Jaipur 	Oct 31, 2005 	ODI # 2290
+India 	Sri Lanka 	India 	4 wickets 	Pune 	Nov 3, 2005 	ODI # 2291
+India 	Sri Lanka 	Sri Lanka 	5 wickets 	Ahmedabad 	Nov 6, 2005 	ODI # 2294
+India 	Sri Lanka 	India 	7 wickets 	Rajkot 	Nov 9, 2005 	ODI # 2295
+India 	Sri Lanka 	India 	5 wickets 	Vadodara 	Nov 12, 2005 	ODI # 2296
+India 	South Africa 	South Africa 	5 wickets 	Hyderabad (Deccan) 	Nov 16, 2005 	ODI # 2297
+India 	South Africa 	India 	6 wickets 	Bangalore 	Nov 19, 2005 	ODI # 2298
+India 	South Africa 	South Africa 	10 wickets 	Kolkata 	Nov 25, 2005 	ODI # 2299
+India 	South Africa 	India 	5 wickets 	Mumbai 	Nov 28, 2005 	ODI # 2300
+Pakistan 	India 	Pakistan 	7 runs 	Peshawar 	Feb 6, 2006 	ODI # 2324
+Pakistan 	India 	India 	7 wickets 	Rawalpindi 	Feb 11, 2006 	ODI # 2327
+Pakistan 	India 	India 	5 wickets 	Lahore 	Feb 13, 2006 	ODI # 2329
+Pakistan 	India 	India 	5 wickets 	Multan 	Feb 16, 2006 	ODI # 2331
+Pakistan 	India 	India 	8 wickets 	Karachi 	Feb 19, 2006 	ODI # 2333
+India 	England 	India 	39 runs 	Delhi 	Mar 28, 2006 	ODI # 2357
+India 	England 	India 	4 wickets 	Faridabad 	Mar 31, 2006 	ODI # 2358
+India 	England 	India 	49 runs 	Margao 	Apr 3, 2006 	ODI # 2359
+India 	England 	India 	4 wickets 	Kochi 	Apr 6, 2006 	ODI # 2360
+India 	England 	England 	5 wickets 	Jamshedpur 	Apr 12, 2006 	ODI # 2361
+India 	England 	India 	7 wickets 	Indore 	Apr 15, 2006 	ODI # 2362
+India 	Pakistan 	Pakistan 	6 wickets 	Abu Dhabi 	Apr 18, 2006 	ODI # 2363
+India 	Pakistan 	India 	51 runs 	Abu Dhabi 	Apr 19, 2006 	ODI # 2364
+West Indies 	India 	India 	5 wickets 	Kingston 	May 18, 2006 	ODI # 2377
+West Indies 	India 	West Indies 	1 run 	Kingston 	May 20, 2006 	ODI # 2379
+West Indies 	India 	West Indies 	4 wickets 	Basseterre 	May 23, 2006 	ODI # 2380
+West Indies 	India 	West Indies 	6 wickets 	Port of Spain 	May 26, 2006 	ODI # 2381
+West Indies 	India 	West Indies 	19 runs 	Port of Spain 	May 28, 2006 	ODI # 2382
+India 	West Indies 	West Indies 	29 runs 	Kuala Lumpur 	Sep 14, 2006 	ODI # 2414
+India 	West Indies 	India 	16 runs 	Kuala Lumpur 	Sep 20, 2006 	ODI # 2419
+Australia 	India 	Australia 	18 runs 	Kuala Lumpur 	Sep 22, 2006 	ODI # 2421
+India 	England 	India 	4 wickets 	Jaipur 	Oct 15, 2006 	ODI # 2429
+India 	West Indies 	West Indies 	3 wickets 	Ahmedabad 	Oct 26, 2006 	ODI # 2437
+India 	Australia 	Australia 	6 wickets 	Mohali 	Oct 29, 2006 	ODI # 2440
+South Africa 	India 	South Africa 	157 runs 	Durban 	Nov 22, 2006 	ODI # 2447
+South Africa 	India 	South Africa 	106 runs 	Cape Town 	Nov 26, 2006 	ODI # 2449
+South Africa 	India 	South Africa 	80 runs 	Port Elizabeth 	Nov 29, 2006 	ODI # 2452
+South Africa 	India 	South Africa 	9 wickets 	Centurion 	Dec 3, 2006 	ODI # 2458
+India 	West Indies 	India 	14 runs 	Nagpur 	Jan 21, 2007 	ODI # 2480
+India 	West Indies 	India 	20 runs 	Cuttack 	Jan 24, 2007 	ODI # 2485
+India 	West Indies 	West Indies 	3 wickets 	Chennai 	Jan 27, 2007 	ODI # 2487
+India 	West Indies 	India 	160 runs 	Vadodara 	Jan 31, 2007 	ODI # 2493
+India 	Sri Lanka 	Sri Lanka 	5 runs 	Rajkot 	Feb 11, 2007 	ODI # 2520
+India 	Sri Lanka 	India 	5 wickets 	Margao 	Feb 14, 2007 	ODI # 2522
+India 	Sri Lanka 	India 	7 wickets 	Visakhapatnam 	Feb 17, 2007 	ODI # 2525
+Bangladesh 	India 	Bangladesh 	5 wickets 	Port of Spain 	Mar 17, 2007 	ODI # 2538
+Bermuda 	India 	India 	257 runs 	Port of Spain 	Mar 19, 2007 	ODI # 2542
+India 	Sri Lanka 	Sri Lanka 	69 runs 	Port of Spain 	Mar 23, 2007 	ODI # 2550
+Bangladesh 	India 	India 	5 wickets 	Dhaka 	May 10, 2007 	ODI # 2582
+Bangladesh 	India 	India 	46 runs 	Dhaka 	May 12, 2007 	ODI # 2583
+Ireland 	India 	India 	9 wickets 	Belfast 	Jun 23, 2007 	ODI # 2590
+India 	South Africa 	South Africa 	4 wickets 	Belfast 	Jun 26, 2007 	ODI # 2592
+India 	South Africa 	India 	6 wickets 	Belfast 	Jun 29, 2007 	ODI # 2593
+India 	South Africa 	India 	6 wickets 	Belfast 	Jul 1, 2007 	ODI # 2595
+Scotland 	India 	India 	7 wickets 	Glasgow 	Aug 16, 2007 	ODI # 2608
+England 	India 	England 	104 runs 	Southampton 	Aug 21, 2007 	ODI # 2611
+England 	India 	India 	9 runs 	Bristol 	Aug 24, 2007 	ODI # 2613
+England 	India 	England 	42 runs 	Birmingham 	Aug 27, 2007 	ODI # 2616
+England 	India 	England 	3 wickets 	Manchester 	Aug 30, 2007 	ODI # 2617
+England 	India 	India 	38 runs 	Leeds 	Sep 2, 2007 	ODI # 2618
+England 	India 	India 	2 wickets 	The Oval 	Sep 5, 2007 	ODI # 2619
+England 	India 	England 	7 wickets 	Lord's 	Sep 8, 2007 	ODI # 2620
+India 	Australia 	Australia 	84 runs 	Kochi 	Oct 2, 2007 	ODI # 2623
+India 	Australia 	Australia 	47 runs 	Hyderabad (Deccan) 	Oct 5, 2007 	ODI # 2625
+India 	Australia 	India 	8 runs 	Chandigarh 	Oct 8, 2007 	ODI # 2627
+India 	Australia 	Australia 	9 wickets 	Vadodara 	Oct 11, 2007 	ODI # 2629
+India 	Australia 	Australia 	18 runs 	Nagpur 	Oct 14, 2007 	ODI # 2631
+India 	Australia 	India 	2 wickets 	Mumbai 	Oct 17, 2007 	ODI # 2632
+India 	Pakistan 	India 	5 wickets 	Guwahati 	Nov 5, 2007 	ODI # 2643
+India 	Pakistan 	Pakistan 	4 wickets 	Mohali 	Nov 8, 2007 	ODI # 2644
+India 	Pakistan 	India 	46 runs 	Kanpur 	Nov 11, 2007 	ODI # 2645
+India 	Pakistan 	India 	6 wickets 	Gwalior 	Nov 15, 2007 	ODI # 2646
+India 	Pakistan 	Pakistan 	31 runs 	Jaipur 	Nov 18, 2007 	ODI # 2647
+Australia 	India 	India 	5 wickets 	Melbourne 	Feb 10, 2008 	ODI # 2675
+India 	Sri Lanka 	Sri Lanka 	8 wickets 	Canberra 	Feb 12, 2008 	ODI # 2676
+Australia 	India 	Australia 	50 runs 	Adelaide 	Feb 17, 2008 	ODI # 2680
+India 	Sri Lanka 	India 	2 wickets 	Adelaide 	Feb 19, 2008 	ODI # 2681
+Australia 	India 	Australia 	18 runs 	Sydney 	Feb 24, 2008 	ODI # 2685
+India 	Sri Lanka 	India 	7 wickets 	Hobart 	Feb 26, 2008 	ODI # 2686
+Australia 	India 	India 	6 wickets 	Sydney 	Mar 2, 2008 	ODI # 2688
+Australia 	India 	India 	9 runs 	Brisbane 	Mar 4, 2008 	ODI # 2689
+India 	Pakistan 	India 	140 runs 	Dhaka 	Jun 10, 2008 	ODI # 2705
+Bangladesh 	India 	India 	7 wickets 	Dhaka 	Jun 12, 2008 	ODI # 2706
+India 	Pakistan 	Pakistan 	25 runs 	Dhaka 	Jun 14, 2008 	ODI # 2707
+Hong Kong 	India 	India 	256 runs 	Karachi 	Jun 25, 2008 	ODI # 2716
+Pakistan 	India 	India 	6 wickets 	Karachi 	Jun 26, 2008 	ODI # 2717
+Bangladesh 	India 	India 	7 wickets 	Karachi 	Jun 28, 2008 	ODI # 2721
+Pakistan 	India 	Pakistan 	8 wickets 	Karachi 	Jul 2, 2008 	ODI # 2730
+India 	Sri Lanka 	India 	6 wickets 	Karachi 	Jul 3, 2008 	ODI # 2732
+India 	Sri Lanka 	Sri Lanka 	100 runs 	Karachi 	Jul 6, 2008 	ODI # 2735
+Sri Lanka 	India 	Sri Lanka 	8 wickets 	Dambulla 	Aug 18, 2008 	ODI # 2742
+Sri Lanka 	India 	India 	3 wickets 	Dambulla 	Aug 20, 2008 	ODI # 2745
+Sri Lanka 	India 	India 	33 runs 	Colombo (RPS) 	Aug 24, 2008 	ODI # 2750
+Sri Lanka 	India 	India 	46 runs 	Colombo (RPS) 	Aug 27, 2008 	ODI # 2755
+Sri Lanka 	India 	Sri Lanka 	112 runs 	Colombo (RPS) 	Aug 29, 2008 	ODI # 2756
+India 	England 	India 	158 runs 	Rajkot 	Nov 14, 2008 	ODI # 2774
+India 	England 	India 	54 runs 	Indore 	Nov 17, 2008 	ODI # 2777
+India 	England 	India 	16 runs 	Kanpur 	Nov 20, 2008 	ODI # 2778
+India 	England 	India 	19 runs 	Bangalore 	Nov 23, 2008 	ODI # 2781
+India 	England 	India 	6 wickets 	Cuttack 	Nov 26, 2008 	ODI # 2783
+
+Sri Lanka 	India 	India 	6 wickets 	Dambulla 	Jan 28, 2009 	ODI # 2806
+Sri Lanka 	India 	India 	15 runs 	Colombo (RPS) 	Jan 31, 2009 	ODI # 2810
+Sri Lanka 	India 	India 	147 runs 	Colombo (RPS) 	Feb 3, 2009 	ODI # 2813
+Sri Lanka 	India 	India 	67 runs 	Colombo (RPS) 	Feb 5, 2009 	ODI # 2815
+Sri Lanka 	India 	Sri Lanka 	68 runs 	Colombo (RPS) 	Feb 8, 2009 	ODI # 2818
+New Zealand 	India 	India 	53 runs 	Napier 	Mar 3, 2009 	ODI # 2821
+New Zealand 	India 	India 	58 runs 	Christchurch 	Mar 8, 2009 	ODI # 2823
+New Zealand 	India 	India 	84 runs 	Hamilton 	Mar 11, 2009 	ODI # 2824
+New Zealand 	India 	New Zealand 	8 wickets 	Auckland 	Mar 14, 2009 	ODI # 2825
+West Indies 	India 	India 	20 runs 	Kingston 	Jun 26, 2009 	ODI # 2852
+West Indies 	India 	West Indies 	8 wickets 	Kingston 	Jun 28, 2009 	ODI # 2853
+West Indies 	India 	India 	6 wickets 	Gros Islet 	Jul 3, 2009 	ODI # 2854
+India 	New Zealand 	India 	6 wickets 	Colombo (RPS) 	Sep 11, 2009 	ODI # 2886
+Sri Lanka 	India 	Sri Lanka 	139 runs 	Colombo (RPS) 	Sep 12, 2009 	ODI # 2887
+Sri Lanka 	India 	India 	46 runs 	Colombo (RPS) 	Sep 14, 2009 	ODI # 2889
+India 	Pakistan 	Pakistan 	54 runs 	Centurion 	Sep 26, 2009 	ODI # 2898
+India 	West Indies 	India 	7 wickets 	Johannesburg 	Sep 30, 2009 	ODI # 2904
+India 	Australia 	Australia 	4 runs 	Vadodara 	Oct 25, 2009 	ODI # 2913
+India 	Australia 	India 	99 runs 	Nagpur 	Oct 28, 2009 	ODI # 2915
+India 	Australia 	India 	6 wickets 	Delhi 	Oct 31, 2009 	ODI # 2918
+India 	Australia 	Australia 	24 runs 	Mohali 	Nov 2, 2009 	ODI # 2919
+India 	Australia 	Australia 	3 runs 	Hyderabad (Deccan) 	Nov 5, 2009 	ODI # 2923
+India 	Australia 	Australia 	6 wickets 	Guwahati 	Nov 8, 2009 	ODI # 2925
+India 	Sri Lanka 	India 	3 runs 	Rajkot 	Dec 15, 2009 	ODI # 2932
+India 	Sri Lanka 	Sri Lanka 	3 wickets 	Nagpur 	Dec 18, 2009 	ODI # 2933
+India 	Sri Lanka 	India 	7 wickets 	Cuttack 	Dec 21, 2009 	ODI # 2934
+India 	Sri Lanka 	India 	7 wickets 	Kolkata 	Dec 24, 2009 	ODI # 2935
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,116 @@
+India	SriLanka	SriLanka	5wickets	Dhaka	Jan5,2010	ODI#2938
+Bangladesh	India	India	6wickets	Dhaka	Jan7,2010	ODI#2939
+India	SriLanka	India	8wickets	Dhaka	Jan10,2010	ODI#2941
+Bangladesh	India	India	6wickets	Dhaka	Jan11,2010	ODI#2942
+India	SriLanka	SriLanka	4wickets	Dhaka	Jan13,2010	ODI#2943
+India	SouthAfrica	India	1run	Jaipur	Feb21,2010	ODI#2961
+India	SouthAfrica	India	153runs	Gwalior	Feb24,2010	ODI#2962
+India	SouthAfrica	SouthAfrica	90runs	Ahmedabad	Feb27,2010	ODI#2963
+Zimbabwe	India	Zimbabwe	6wickets	Bulawayo	May28,2010	ODI#2981
+India	SriLanka	India	7wickets	Bulawayo	May30,2010	ODI#2983
+Zimbabwe	India	Zimbabwe	7wickets	Harare	Jun3,2010	ODI#2986
+India	SriLanka	SriLanka	6wickets	Harare	Jun5,2010	ODI#2988
+Bangladesh	India	India	6wickets	Dambulla	Jun16,2010	ODI#2993
+India	Pakistan	India	3wickets	Dambulla	Jun19,2010	ODI#2996
+SriLanka	India	SriLanka	7wickets	Dambulla	Jun22,2010	ODI#2999
+SriLanka	India	India	81runs	Dambulla	Jun24,2010	ODI#3001
+India	NewZealand	NewZealand	200runs	Dambulla	Aug10,2010	ODI#3030
+SriLanka	India	India	6wickets	Dambulla	Aug16,2010	ODI#3032
+SriLanka	India	SriLanka	8wickets	Dambulla	Aug22,2010	ODI#3038
+India	NewZealand	India	105runs	Dambulla	Aug25,2010	ODI#3039
+SriLanka	India	SriLanka	74runs	Dambulla	Aug28,2010	ODI#3040
+India	Australia	abandoned		Kochi	Oct17,2010	ODI#3058a
+India	Australia	India	5wickets	Visakhapatnam	Oct20,2010	ODI#3060
+India	Australia	abandoned		Margao	Oct24,2010	ODI#3061a
+India	NewZealand	India	40runs	Guwahati	Nov28,2010	ODI#3070
+India	NewZealand	India	8wickets	Jaipur	Dec1,2010	ODI#3072
+India	NewZealand	India	9wickets	Vadodara	Dec4,2010	ODI#3074
+India	NewZealand	India	5wickets	Bangalore	Dec7,2010	ODI#3076
+India	NewZealand	India	8wickets	Chennai	Dec10,2010	ODI#3077
+SouthAfrica	India	SouthAfrica	135runs	Durban	Jan12,2011	ODI#3079
+SouthAfrica	India	India	1run	Johannesburg	Jan15,2011	ODI#3080
+SouthAfrica	India	India	2wickets	CapeTown	Jan18,2011	ODI#3082
+SouthAfrica	India	SouthAfrica	48runs	PortElizabeth	Jan21,2011	ODI#3084
+SouthAfrica	India	SouthAfrica	33runs	Centurion	Jan23,2011	ODI#3087
+Bangladesh	India	India	87runs	Dhaka	Feb19,2011	ODI#3100
+India	England	tied		Bangalore	Feb27,2011	ODI#3110
+India	Ireland	India	5wickets	Bangalore	Mar6,2011	ODI#3121
+India	Netherlands	India	5wickets	Delhi	Mar9,2011	ODI#3124
+India	SouthAfrica	SouthAfrica	3wickets	Nagpur	Mar12,2011	ODI#3128
+India	WestIndies	India	80runs	Chennai	Mar20,2011	ODI#3141
+India	Australia	India	5wickets	Ahmedabad	Mar24,2011	ODI#3143
+India	Pakistan	India	29runs	Mohali	Mar30,2011	ODI#3147
+India	SriLanka	India	6wickets	Mumbai	Apr2,2011	ODI#3148
+WestIndies	India	India	4wickets	PortofSpain	Jun6,2011	ODI#3159
+WestIndies	India	India	7wickets	PortofSpain	Jun8,2011	ODI#3160
+WestIndies	India	India	3wickets	NorthSound	Jun11,2011	ODI#3161
+WestIndies	India	WestIndies	103runs	NorthSound	Jun13,2011	ODI#3162
+WestIndies	India	WestIndies	7wickets	Kingston	Jun16,2011	ODI#3163
+England	India	noresult		Chester-le-Street	Sep3,2011	ODI#3186
+England	India	England	7wickets	Southampton	Sep6,2011	ODI#3187
+England	India	England	3wickets	TheOval	Sep9,2011	ODI#3189
+England	India	tied		Lord's	Sep11,2011	ODI#3191
+England	India	England	6wickets	Cardiff	Sep16,2011	ODI#3195
+India	England	India	126runs	Hyderabad(Deccan)	Oct14,2011	ODI#3199
+India	England	India	8wickets	Delhi	Oct17,2011	ODI#3201
+India	England	India	5wickets	Mohali	Oct20,2011	ODI#3205
+India	England	India	6wickets	Mumbai	Oct23,2011	ODI#3207
+India	England	India	95runs	Kolkata	Oct25,2011	ODI#3210
+India	WestIndies	India	1wicket	Cuttack	Nov29,2011	ODI#3217
+India	WestIndies	India	5wickets	Visakhapatnam	Dec2,2011	ODI#3219
+India	WestIndies	WestIndies	16runs	Ahmedabad	Dec5,2011	ODI#3221
+India	WestIndies	India	153runs	Indore	Dec8,2011	ODI#3223
+India	WestIndies	India	34runs	Chennai	Dec11,2011	ODI#3224
+Australia	India	Australia	65runs	Melbourne	Feb5,2012	ODI#3231
+India	SriLanka	India	4wickets	Perth	Feb8,2012	ODI#3233
+Australia	India	India	4wickets	Adelaide	Feb12,2012	ODI#3237
+India	SriLanka	tied		Adelaide	Feb14,2012	ODI#3239
+Australia	India	Australia	110runs	Brisbane	Feb19,2012	ODI#3244
+India	SriLanka	SriLanka	51runs	Brisbane	Feb21,2012	ODI#3246
+Australia	India	Australia	87runs	Sydney	Feb26,2012	ODI#3250
+India	SriLanka	India	7wickets	Hobart	Feb28,2012	ODI#3251
+India	SriLanka	India	50runs	Dhaka	Mar13,2012	ODI#3259
+Bangladesh	India	Bangladesh	5wickets	Dhaka	Mar16,2012	ODI#3261
+India	Pakistan	India	6wickets	Dhaka	Mar18,2012	ODI#3263
+SriLanka	India	India	21runs	Hambantota	Jul21,2012	ODI#3291
+SriLanka	India	SriLanka	9wickets	Hambantota	Jul24,2012	ODI#3292
+SriLanka	India	India	5wickets	Colombo(RPS)	Jul28,2012	ODI#3293
+SriLanka	India	India	6wickets	Colombo(RPS)	Jul31,2012	ODI#3294
+SriLanka	India	India	20runs	Pallekele	Aug4,2012	ODI#3295
+India	Pakistan	Pakistan	6wickets	Chennai	Dec30,2012	ODI#3314
+India	Pakistan	Pakistan	85runs	Kolkata	Jan3,2013	ODI#3315
+India	Pakistan	India	10runs	Delhi	Jan6,2013	ODI#3316
+India	England	England	9runs	Rajkot	Jan11,2013	ODI#3318
+India	England	India	127runs	Kochi	Jan15,2013	ODI#3320
+India	England	India	7wickets	Ranchi	Jan19,2013	ODI#3322
+India	England	India	5wickets	Mohali	Jan23,2013	ODI#3327
+India	England	England	7wickets	Dharamsala	Jan27,2013	ODI#3329
+India	SouthAfrica	India	26runs	Cardiff	Jun6,2013	ODI#3363
+India	WestIndies	India	8wickets	TheOval	Jun11,2013	ODI#3368
+India	Pakistan	India	8wickets	Birmingham	Jun15,2013	ODI#3372
+India	SriLanka	India	8wickets	Cardiff	Jun20,2013	ODI#3376
+England	India	India	5runs	Birmingham	Jun23,2013	ODI#3377
+WestIndies	India	WestIndies	1wicket	Kingston	Jun30,2013	ODI#3380
+India	SriLanka	SriLanka	161runs	Kingston	Jul2,2013	ODI#3382
+WestIndies	India	India	102runs	PortofSpain	Jul5,2013	ODI#3383
+India	SriLanka	India	81runs	PortofSpain	Jul9,2013	ODI#3387
+India	SriLanka	India	1wicket	PortofSpain	Jul11,2013	ODI#3388
+Zimbabwe	India	India	6wickets	Harare	Jul24,2013	ODI#3395
+Zimbabwe	India	India	58runs	Harare	Jul26,2013	ODI#3397
+Zimbabwe	India	India	7wickets	Harare	Jul28,2013	ODI#3399
+Zimbabwe	India	India	9wickets	Bulawayo	Aug1,2013	ODI#3402
+Zimbabwe	India	India	7wickets	Bulawayo	Aug3,2013	ODI#3403
+India	Australia	Australia	72runs	Pune	Oct13,2013	ODI#3419
+India	Australia	India	9wickets	Jaipur	Oct16,2013	ODI#3420
+India	Australia	Australia	4wickets	Mohali	Oct19,2013	ODI#3421
+India	Australia	noresult		Ranchi	Oct23,2013	ODI#3422
+India	Australia	abandoned		Cuttack	Oct26,2013	ODI#3422a
+India	Australia	India	6wickets	Nagpur	Oct30,2013	ODI#3424
+India	Australia	India	57runs	Bangalore	Nov2,2013	ODI#3428
+India	WestIndies	India	6wickets	Kochi	Nov21,2013	ODI#3436
+India	WestIndies	WestIndies	2wickets	Visakhapatnam	Nov24,2013	ODI#3437
+India	WestIndies	India	5wickets	Kanpur	Nov27,2013	ODI#3439
+SouthAfrica	India	SouthAfrica	141runs	Johannesburg	Dec5,2013	ODI#3442
+
+
+

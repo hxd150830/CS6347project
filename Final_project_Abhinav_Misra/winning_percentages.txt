@@ -1,0 +1,11 @@
+Australia 61.21
+WestIndies 51.20
+NewZealand 42.80
+Kenya 26.97
+Pakistan 53.41
+Bangladesh 28.98
+SouthAfrica 61.50
+Zimbabwe 26.13
+England 48.68
+SriLanka 46.79
+
