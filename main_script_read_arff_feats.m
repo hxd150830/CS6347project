@@ -6,6 +6,24 @@ javaclasspath('/home/harish/CS6347project/matlab2weka2015/matlab2weka/matlab2wek
 javaclasspath('/home/harish/CS6347project/WEKALab-master/wekalab.jar');
 
 addpath(genpath('/home/harish/CS6347project/WEKALab-master/'));
+%
+Duke_regular2015_data = dlmread('/home/harish/CS6347/CS6347project/Duke_round1/Duke_regular2015');
+Duke_regular2015_data2=change_labels(Duke_regular2015_data);
+arffwrite('/home/harish/CS6347project/data_5teams/Duke_regular2015_arff',Duke_regular2015_data2); 
+%
+Duke_RobertMorris_DukeModel_data = dlmread('/home/harish/CS6347/CS6347project/Duke_round1/Duke_RobertMorris_DukeModel');
+Duke_RobertMorris_DukeModel_data2=change_labels(Duke_RobertMorris_DukeModel_data);
+arffwrite('/home/harish/CS6347project/data_5teams/Duke_RobertMorris_DukeModel_arff',Duke_RobertMorris_DukeModel_data2); 
+%
+Robert_Morris_regular2015_data = dlmread('/home/harish/CS6347/CS6347project/Duke_round1/Robert_Morris_regular2015');
+Robert_Morris_regular2015_data2=change_labels(Robert_Morris_regular2015_data);
+arffwrite('/home/harish/CS6347project/data_5teams/Robert_Morris_regular2015_arff',Robert_Morris_regular2015_data2); 
+%
+RobertMorris_Duke_RobertMorrisModel_data = dlmread('/home/harish/CS6347/CS6347project/Duke_round1/RobertMorris_Duke_RobertMorrisModel');
+RobertMorris_Duke_RobertMorrisModel_data2=change_labels(RobertMorris_Duke_RobertMorrisModel_data);
+arffwrite('/home/harish/CS6347project/data_5teams/RobertMorris_Duke_RobertMorrisModel_arff',RobertMorris_Duke_RobertMorrisModel_data2); 
+%
+ 
 %cd('/home/harish/WEKALab-master/');
 %listclassifiers;% later
 % list of all classifier avalilable

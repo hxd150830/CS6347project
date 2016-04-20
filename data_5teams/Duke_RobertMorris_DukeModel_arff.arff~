@@ -1,0 +1,30 @@
+@relation /home/harish/CS6347project/data_5teams/Duke_RobertMorris_DukeModel_arff-weka.filters.unsupervised.attribute.NumericToNominal-Rlast
+@attribute 1 numeric
+@attribute 2 numeric
+@attribute 3 numeric
+@attribute 4 numeric
+@attribute 5 numeric
+@attribute 6 numeric
+@attribute 7 numeric
+@attribute 8 numeric
+@attribute 9 numeric
+@attribute 10 numeric
+@attribute 11 numeric
+@attribute 12 numeric
+@attribute 13 numeric
+@attribute 14 numeric
+@attribute 15 numeric
+@attribute 16 numeric
+@attribute 17 numeric
+@attribute 18 numeric
+@attribute 19 numeric
+@attribute 20 numeric
+@attribute 21 numeric
+@attribute 22 numeric
+@attribute 23 numeric
+@attribute 24 numeric
+@attribute 25 numeric
+@attribute 26 {1,2,}
+
+@data
+0,28,56,7,19,15,22,10,24,15,11,7,3,24,54,6,16,14,19,8,20,12,13,8,3,1
